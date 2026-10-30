@@ -37,6 +37,24 @@ function Invoke-Git([string[]]$a) {
   return $out
 }
 
+function Initialize-Mirror {
+  if (Test-Path (Join-Path $repo '.git')) { return }
+  Write-Output "首次运行：建立上游元数据镜像（约 0.2 MB，不下载技能内容）..."
+  $prev = $ErrorActionPreference
+  $ErrorActionPreference = 'Continue'
+  try {
+    $out = & git -c http.sslBackend=openssl clone --filter=blob:none --depth 1 --no-checkout `
+      https://github.com/anbeime/skill.git $repo 2>&1
+    $code = $LASTEXITCODE
+  }
+  finally { $ErrorActionPreference = $prev }
+  if ($code -ne 0) {
+    throw ("无法克隆 anbeime/skill（github.com 可能不可达）：`n" + ($out -join "`n") +
+      "`n改用 API 通道：node .\skill-api.mjs list")
+  }
+  Write-Output "镜像就绪。"
+}
+
 function Get-Skills {
   if (-not (Test-Path $index)) { throw "索引不存在，先执行: .\skill.ps1 update" }
   (Get-Content -Raw -Encoding UTF8 $index | ConvertFrom-Json).skills |
@@ -53,6 +71,8 @@ function Resolve-Skill([string]$n) {
   }
   $hit[0]
 }
+
+if (@('install', 'info', 'update') -contains $Command.ToLower()) { Initialize-Mirror }
 
 switch ($Command.ToLower()) {
   'list' {
