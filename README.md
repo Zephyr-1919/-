@@ -49,3 +49,15 @@ node .\tools\skill-api.mjs install skills\diagram-design\skills\diagram-design
 
 - 技能来源仓库体积约 285 MB，本工具只拉取目录元数据（约 0.14 MB），安装时按需下载单个技能。
 - 令牌等敏感信息不入库，见 `.gitignore`。
+
+## 仓库内置技能
+
+`skills/` 下收录了 14 个通用技能（架构图、PPT、PDF、文档转换、产品管理、前端设计、论文分析、多智能体等），
+克隆后无需联网即可安装：
+
+```powershell
+.\tools\install-all.ps1              # 全部装到 ~/.dsh/skills
+.\tools\install-all.ps1 -To D:\my    # 或指定目录
+```
+
+其余 80 个上游技能见 [SKILLS.md](SKILLS.md) 的「上游候选」表，按需下载。
