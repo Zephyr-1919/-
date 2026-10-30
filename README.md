@@ -6,8 +6,8 @@
 ## 快速开始
 
 ```powershell
-git clone https://github.com/Zephyr-1919/-.git
-cd -
+git clone https://github.com/Zephyr-1919/-.git skills-vault
+cd skills-vault
 
 # 列出 / 搜索 / 查看
 .\tools\skill.ps1 list
