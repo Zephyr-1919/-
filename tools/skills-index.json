@@ -1,0 +1,572 @@
+﻿{
+    "repo":  "anbeime/skill",
+    "branch":  "main",
+    "generated_at":  "2026-10-29T23:22:35.1615139+08:00",
+    "count":  94,
+    "skills":  [
+                   {
+                       "name":  "._",
+                       "path":  "skills/chrome-automation/__MACOSX/chrome-automation/._",
+                       "root":  "skills",
+                       "files":  0
+                   },
+                   {
+                       "name":  "_template",
+                       "path":  "skills/_template",
+                       "root":  "skills",
+                       "files":  1
+                   },
+                   {
+                       "name":  "agentkit-multimedia-shopping",
+                       "path":  "skills/agentkit-multimedia-shopping/agentkit-multimedia-shopping",
+                       "root":  "skills",
+                       "files":  16
+                   },
+                   {
+                       "name":  "agent-team",
+                       "path":  "skills/agent-team/agent-team",
+                       "root":  "skills",
+                       "files":  7
+                   },
+                   {
+                       "name":  "antinet-doc-parse",
+                       "path":  "skills/antinet-doc-parse",
+                       "root":  "skills",
+                       "files":  3
+                   },
+                   {
+                       "name":  "antinet-four-color-cards",
+                       "path":  "skills/antinet-four-color-cards",
+                       "root":  "skills",
+                       "files":  3
+                   },
+                   {
+                       "name":  "antinet-provenance",
+                       "path":  "skills/antinet-provenance",
+                       "root":  "skills",
+                       "files":  3
+                   },
+                   {
+                       "name":  "antinet-security-scan",
+                       "path":  "skills/antinet-security-scan",
+                       "root":  "skills",
+                       "files":  3
+                   },
+                   {
+                       "name":  "archify",
+                       "path":  "skills/archify",
+                       "root":  "skills",
+                       "files":  1
+                   },
+                   {
+                       "name":  "article-illustrator",
+                       "path":  "skills/content-creation-publisher/article-illustrator",
+                       "root":  "skills",
+                       "files":  3
+                   },
+                   {
+                       "name":  "article-illustrator",
+                       "path":  "skills/article-illustrator/article-illustrator",
+                       "root":  "skills",
+                       "files":  3
+                   },
+                   {
+                       "name":  "atutun-xhs-cover",
+                       "path":  "skills/atutun-xhs-cover/atutun-xhs-cover",
+                       "root":  "skills",
+                       "files":  2
+                   },
+                   {
+                       "name":  "baoyu-format-markdown",
+                       "path":  "skills/content-creation-publisher/baoyu-format-markdown",
+                       "root":  "skills",
+                       "files":  7
+                   },
+                   {
+                       "name":  "baoyu-post-to-wechat",
+                       "path":  "skills/content-creation-publisher/baoyu-post-to-wechat",
+                       "root":  "skills",
+                       "files":  29
+                   },
+                   {
+                       "name":  "baoyu-post-to-x",
+                       "path":  "skills/content-creation-publisher/baoyu-post-to-x",
+                       "root":  "skills",
+                       "files":  11
+                   },
+                   {
+                       "name":  "baoyu-url-to-markdown",
+                       "path":  "skills/content-creation-publisher/baoyu-url-to-markdown",
+                       "root":  "skills",
+                       "files":  6
+                   },
+                   {
+                       "name":  "bedtime-story",
+                       "path":  "skills/bedtime-story/bedtime-story",
+                       "root":  "skills",
+                       "files":  3
+                   },
+                   {
+                       "name":  "chrome-automation",
+                       "path":  "skills/chrome-automation/chrome-automation",
+                       "root":  "skills",
+                       "files":  13
+                   },
+                   {
+                       "name":  "companion-simple",
+                       "path":  "projects/companion-simple",
+                       "root":  "projects",
+                       "files":  41
+                   },
+                   {
+                       "name":  "companion-skill",
+                       "path":  "projects/companion-skill",
+                       "root":  "projects",
+                       "files":  16
+                   },
+                   {
+                       "name":  "content-creation-publisher",
+                       "path":  "skills/content-creation-publisher",
+                       "root":  "skills",
+                       "files":  57
+                   },
+                   {
+                       "name":  "content-research-writer",
+                       "path":  "skills/content-research-writer",
+                       "root":  "skills",
+                       "files":  1
+                   },
+                   {
+                       "name":  "contract-review",
+                       "path":  "skills/legal-assistant-skills-main/contract-review",
+                       "root":  "skills",
+                       "files":  27
+                   },
+                   {
+                       "name":  "convert-documents-to-markdown",
+                       "path":  "skills/convert-documents-to-markdown/convert-documents-to-markdown",
+                       "root":  "skills",
+                       "files":  1
+                   },
+                   {
+                       "name":  "data-storytelling",
+                       "path":  "skills/data-storytelling/data-storytelling",
+                       "root":  "skills",
+                       "files":  1
+                   },
+                   {
+                       "name":  "diagram-design",
+                       "path":  "skills/diagram-design/skills/diagram-design",
+                       "root":  "skills",
+                       "files":  287
+                   },
+                   {
+                       "name":  "digital-avatar-shopping-video",
+                       "path":  "skills/digital-avatar-shopping-video/digital-avatar-shopping-video",
+                       "root":  "skills",
+                       "files":  6
+                   },
+                   {
+                       "name":  "doc-parse",
+                       "path":  "antinet-agentteams/skills/doc-parse",
+                       "root":  "antinet-agentteams/skills",
+                       "files":  2
+                   },
+                   {
+                       "name":  "dream-video-prompt-generator",
+                       "path":  "skills/dream-video-prompt-generator/dream-video-prompt-generator",
+                       "root":  "skills",
+                       "files":  8
+                   },
+                   {
+                       "name":  "ecommerce-copywriter",
+                       "path":  "skills/ecommerce-copywriter/ecommerce-copywriter",
+                       "root":  "skills",
+                       "files":  4
+                   },
+                   {
+                       "name":  "ecommerce-full-pipeline",
+                       "path":  "skills/ecommerce-full-pipeline/ecommerce-full-pipeline",
+                       "root":  "skills",
+                       "files":  1
+                   },
+                   {
+                       "name":  "ecommerce-video-marketing",
+                       "path":  "skills/ecommerce-video-marketing/ecommerce-video-marketing",
+                       "root":  "skills",
+                       "files":  5
+                   },
+                   {
+                       "name":  "email-concierge",
+                       "path":  "skills/email-concierge",
+                       "root":  "skills",
+                       "files":  16
+                   },
+                   {
+                       "name":  "four-color-cards",
+                       "path":  "antinet-agentteams/skills/four-color-cards",
+                       "root":  "antinet-agentteams/skills",
+                       "files":  2
+                   },
+                   {
+                       "name":  "frontend-design",
+                       "path":  "skills/frontend-design/frontend-design",
+                       "root":  "skills",
+                       "files":  1
+                   },
+                   {
+                       "name":  "generic-extract-",
+                       "path":  "skills/img2threejs/img2threejs/skills/generic-extract-",
+                       "root":  "skills",
+                       "files":  0
+                   },
+                   {
+                       "name":  "gpt-image-2-prompt-engine",
+                       "path":  "skills/gpt-image-2-prompt-engine",
+                       "root":  "skills",
+                       "files":  3
+                   },
+                   {
+                       "name":  "historical-interview-scripts",
+                       "path":  "skills/historical-interview-scripts/historical-interview-scripts",
+                       "root":  "skills",
+                       "files":  27
+                   },
+                   {
+                       "name":  "historical-science-video-prod",
+                       "path":  "skills/historical-science-video-prod/historical-science-video-prod",
+                       "root":  "skills",
+                       "files":  9
+                   },
+                   {
+                       "name":  "icon-generator",
+                       "path":  "skills/icon-generator",
+                       "root":  "skills",
+                       "files":  1
+                   },
+                   {
+                       "name":  "img2threejs",
+                       "path":  "skills/img2threejs/img2threejs",
+                       "root":  "skills",
+                       "files":  358
+                   },
+                   {
+                       "name":  "infinitetalk",
+                       "path":  "skills/infinitetalk",
+                       "root":  "skills",
+                       "files":  10
+                   },
+                   {
+                       "name":  "infinitetalk",
+                       "path":  "skills/infinitetalk/infinitetalk",
+                       "root":  "skills",
+                       "files":  5
+                   },
+                   {
+                       "name":  "infinitetalk-shopping-avatar",
+                       "path":  "skills/infinitetalk-shopping-avatar/infinitetalk-shopping-avatar",
+                       "root":  "skills",
+                       "files":  7
+                   },
+                   {
+                       "name":  "intelligent-content-system",
+                       "path":  "skills/intelligent-content-system",
+                       "root":  "skills",
+                       "files":  4
+                   },
+                   {
+                       "name":  "ip-as-logo",
+                       "path":  "skills/ip-as-logo/ip-as-logo",
+                       "root":  "skills",
+                       "files":  5
+                   },
+                   {
+                       "name":  "json-canvas",
+                       "path":  "skills/obsidian-skills-integrated/json-canvas",
+                       "root":  "skills",
+                       "files":  1
+                   },
+                   {
+                       "name":  "kb-to-mpt",
+                       "path":  "skills/kb-to-mpt",
+                       "root":  "skills",
+                       "files":  5
+                   },
+                   {
+                       "name":  "law-to-markdown",
+                       "path":  "skills/legal-assistant-skills-main/law-to-markdown",
+                       "root":  "skills",
+                       "files":  8
+                   },
+                   {
+                       "name":  "media-processor",
+                       "path":  "skills/media-processor/media-processor",
+                       "root":  "skills",
+                       "files":  9
+                   },
+                   {
+                       "name":  "moltbook",
+                       "path":  "skills/moltbook",
+                       "root":  "skills",
+                       "files":  1
+                   },
+                   {
+                       "name":  "multi-agent-meeting",
+                       "path":  "skills/multi-agent-meeting/multi-agent-meeting",
+                       "root":  "skills",
+                       "files":  8
+                   },
+                   {
+                       "name":  "nanobanana-ppt-visualizer",
+                       "path":  "skills/nanobanana-ppt-visualizer/nanobanana-ppt-visualizer",
+                       "root":  "skills",
+                       "files":  9
+                   },
+                   {
+                       "name":  "obsidian-bases",
+                       "path":  "skills/obsidian-skills-integrated/obsidian-bases",
+                       "root":  "skills",
+                       "files":  1
+                   },
+                   {
+                       "name":  "obsidian-markdown",
+                       "path":  "skills/obsidian-skills-integrated/obsidian-markdown",
+                       "root":  "skills",
+                       "files":  1
+                   },
+                   {
+                       "name":  "obsidian-skills-integrated",
+                       "path":  "skills/obsidian-skills-integrated",
+                       "root":  "skills",
+                       "files":  6
+                   },
+                   {
+                       "name":  "ontoly-software-graph",
+                       "path":  "skills/ontoly-software-graph",
+                       "root":  "skills",
+                       "files":  3
+                   },
+                   {
+                       "name":  "paper-analysis-assistant",
+                       "path":  "skills/paper-analysis-assistant/paper-analysis-assistant",
+                       "root":  "skills",
+                       "files":  10
+                   },
+                   {
+                       "name":  "pdf-processing-pro",
+                       "path":  "skills/pdf-processing-pro/pdf-processing-pro",
+                       "root":  "skills",
+                       "files":  5
+                   },
+                   {
+                       "name":  "pet-commerce-creator",
+                       "path":  "skills/pet-commerce-creator/pet-commerce-creator",
+                       "root":  "skills",
+                       "files":  8
+                   },
+                   {
+                       "name":  "photo-abstract-editorial",
+                       "path":  "skills/photo-abstract-editorial/photo-abstract-editorial",
+                       "root":  "skills",
+                       "files":  18
+                   },
+                   {
+                       "name":  "poetry-music-visual",
+                       "path":  "skills/poetry-music-visual/poetry-music-visual",
+                       "root":  "skills",
+                       "files":  4
+                   },
+                   {
+                       "name":  "pop-up-book-illustration",
+                       "path":  "skills/pop-up-book-illustration/pop-up-book-illustration",
+                       "root":  "skills",
+                       "files":  1
+                   },
+                   {
+                       "name":  "ppt-generator",
+                       "path":  "skills/ppt-generator/ppt-generator",
+                       "root":  "skills",
+                       "files":  5
+                   },
+                   {
+                       "name":  "ppt-roadshow-generator",
+                       "path":  "skills/ppt-roadshow-generator/ppt-roadshow-generator",
+                       "root":  "skills",
+                       "files":  11
+                   },
+                   {
+                       "name":  "pptx-generator",
+                       "path":  "skills/pptx-generator/pptx-generator",
+                       "root":  "skills",
+                       "files":  11
+                   },
+                   {
+                       "name":  "product-manager-toolkit",
+                       "path":  "skills/product-manager-toolkit/product-manager-toolkit",
+                       "root":  "skills",
+                       "files":  4
+                   },
+                   {
+                       "name":  "product-marketing-copywriter",
+                       "path":  "skills/product-marketing-copywriter/product-marketing-copywriter",
+                       "root":  "skills",
+                       "files":  5
+                   },
+                   {
+                       "name":  "product-video-creator",
+                       "path":  "skills/product-video-creator/product-video-creator",
+                       "root":  "skills",
+                       "files":  5
+                   },
+                   {
+                       "name":  "provenance",
+                       "path":  "antinet-agentteams/skills/provenance",
+                       "root":  "antinet-agentteams/skills",
+                       "files":  2
+                   },
+                   {
+                       "name":  "qiaomu-x-article-publisher",
+                       "path":  "skills/qiaomu-x-article-publisher",
+                       "root":  "skills",
+                       "files":  34
+                   },
+                   {
+                       "name":  "qiaomu-x-article-publisher-github",
+                       "path":  "skills/qiaomu-x-article-publisher/qiaomu-x-article-publisher-github",
+                       "root":  "skills",
+                       "files":  18
+                   },
+                   {
+                       "name":  "qwen3-asr-assistant",
+                       "path":  "skills/qwen3-asr-assistant/qwen3-asr-assistant",
+                       "root":  "skills",
+                       "files":  4
+                   },
+                   {
+                       "name":  "qwen3-tts-local",
+                       "path":  "skills/qwen3-tts-local/qwen3-tts-local",
+                       "root":  "skills",
+                       "files":  4
+                   },
+                   {
+                       "name":  "remotion-video-enhancer",
+                       "path":  "skills/remotion-video-enhancer/remotion-video-enhancer",
+                       "root":  "skills",
+                       "files":  11
+                   },
+                   {
+                       "name":  "security-scan",
+                       "path":  "antinet-agentteams/skills/security-scan",
+                       "root":  "antinet-agentteams/skills",
+                       "files":  2
+                   },
+                   {
+                       "name":  "srt-whiteboard-animation",
+                       "path":  "skills/srt-whiteboard-animation",
+                       "root":  "skills",
+                       "files":  19
+                   },
+                   {
+                       "name":  "stock-analysis",
+                       "path":  "skills/stock-analysis/stock-analysis",
+                       "root":  "skills",
+                       "files":  4
+                   },
+                   {
+                       "name":  "tailored-resume-generator",
+                       "path":  "skills/tailored-resume-generator/tailored-resume-generator",
+                       "root":  "skills",
+                       "files":  1
+                   },
+                   {
+                       "name":  "three-body-video-creator",
+                       "path":  "skills/three-body-video-creator/three-body-video-creator",
+                       "root":  "skills",
+                       "files":  13
+                   },
+                   {
+                       "name":  "tts-voice-synthesis",
+                       "path":  "skills/tts-voice-synthesis",
+                       "root":  "skills",
+                       "files":  6
+                   },
+                   {
+                       "name":  "video-creation-collaborator",
+                       "path":  "skills/video-creation-collaborator/video-creation-collaborator",
+                       "root":  "skills",
+                       "files":  12
+                   },
+                   {
+                       "name":  "video-creation-pro",
+                       "path":  "skills/video-creation-pro/video-creation-pro",
+                       "root":  "skills",
+                       "files":  13
+                   },
+                   {
+                       "name":  "video-creation-suite",
+                       "path":  "skills/video-creation-suite/video-creation-suite",
+                       "root":  "skills",
+                       "files":  29
+                   },
+                   {
+                       "name":  "video-frame-extractor",
+                       "path":  "skills/video-frame-extractor/video-frame-extractor",
+                       "root":  "skills",
+                       "files":  5
+                   },
+                   {
+                       "name":  "video-recreation",
+                       "path":  "skills/video-recreation/video-recreation",
+                       "root":  "skills",
+                       "files":  14
+                   },
+                   {
+                       "name":  "video-transcript-downloader",
+                       "path":  "skills/video-transcript-downloader/video-transcript-downloader",
+                       "root":  "skills",
+                       "files":  5
+                   },
+                   {
+                       "name":  "viral-video-copywriting",
+                       "path":  "skills/viral-video-copywriting/viral-video-copywriting",
+                       "root":  "skills",
+                       "files":  5
+                   },
+                   {
+                       "name":  "voltagent-awesome-design-md",
+                       "path":  "skills/voltagent-awesome-design-md/voltagent-awesome-design-md",
+                       "root":  "skills",
+                       "files":  154
+                   },
+                   {
+                       "name":  "web-design-analyzer",
+                       "path":  "skills/web-design-analyzer/web-design-analyzer",
+                       "root":  "skills",
+                       "files":  5
+                   },
+                   {
+                       "name":  "web-to-app",
+                       "path":  "skills/web-to-app/web-to-app",
+                       "root":  "skills",
+                       "files":  4
+                   },
+                   {
+                       "name":  "wechat-hotspot-publisher",
+                       "path":  "skills/wechat-hotspot-publisher/wechat-hotspot-publisher",
+                       "root":  "skills",
+                       "files":  16
+                   },
+                   {
+                       "name":  "wechatsync-publisher",
+                       "path":  "skills/wechatsync-publisher/wechatsync-publisher",
+                       "root":  "skills",
+                       "files":  10
+                   },
+                   {
+                       "name":  "xiaohongshu-makeup",
+                       "path":  "skills/xiaohongshu-makeup/xiaohongshu-makeup",
+                       "root":  "skills",
+                       "files":  5
+                   }
+               ]
+}

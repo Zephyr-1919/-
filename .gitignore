@@ -1,6 +1,12 @@
-﻿# 通用忽略
+# 凭据（绝不入库）
+github-token.txt
+*token*.txt
+.env
+
+# 缓存与临时文件
+tree-cache.json
+.fetch-*.tar
 node_modules/
 *.log
 .DS_Store
 __pycache__/
-
